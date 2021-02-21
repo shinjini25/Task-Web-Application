@@ -1,0 +1,15 @@
+.colouredSection{
+    background-color: #f8f1f1;
+}
+.heading{
+ text-align: center;
+}
+.btnSubmit{
+    background-color: #7d12ff;
+    color: white;
+
+}
+.btnAdd{
+    background-color: #cb0000;
+    color: white;
+}
